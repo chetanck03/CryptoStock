@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 1. *Clone the repository*
 
 ```
-   git clone https://github.com/your-username/crypto-stock-dashboard.git
+   git clone https://github.com/chetanck03/CryptoStock.git
 ```   
 
 2. *Install dependencies*
